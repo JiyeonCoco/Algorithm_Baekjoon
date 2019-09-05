@@ -57,27 +57,27 @@ include CMakeFiles/Baekjoon.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Baekjoon.dir/flags.make
 
-CMakeFiles/Baekjoon.dir/main.cpp.o: CMakeFiles/Baekjoon.dir/flags.make
-CMakeFiles/Baekjoon.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jungjiyeon/CLionProjects/Baekjoon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Baekjoon.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Baekjoon.dir/main.cpp.o -c /Users/jungjiyeon/CLionProjects/Baekjoon/main.cpp
+CMakeFiles/Baekjoon.dir/17140_v2.cpp.o: CMakeFiles/Baekjoon.dir/flags.make
+CMakeFiles/Baekjoon.dir/17140_v2.cpp.o: ../17140_v2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jungjiyeon/CLionProjects/Baekjoon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Baekjoon.dir/17140_v2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Baekjoon.dir/17140_v2.cpp.o -c /Users/jungjiyeon/CLionProjects/Baekjoon/17140_v2.cpp
 
-CMakeFiles/Baekjoon.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Baekjoon.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jungjiyeon/CLionProjects/Baekjoon/main.cpp > CMakeFiles/Baekjoon.dir/main.cpp.i
+CMakeFiles/Baekjoon.dir/17140_v2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Baekjoon.dir/17140_v2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jungjiyeon/CLionProjects/Baekjoon/17140_v2.cpp > CMakeFiles/Baekjoon.dir/17140_v2.cpp.i
 
-CMakeFiles/Baekjoon.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Baekjoon.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jungjiyeon/CLionProjects/Baekjoon/main.cpp -o CMakeFiles/Baekjoon.dir/main.cpp.s
+CMakeFiles/Baekjoon.dir/17140_v2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Baekjoon.dir/17140_v2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jungjiyeon/CLionProjects/Baekjoon/17140_v2.cpp -o CMakeFiles/Baekjoon.dir/17140_v2.cpp.s
 
 # Object files for target Baekjoon
 Baekjoon_OBJECTS = \
-"CMakeFiles/Baekjoon.dir/main.cpp.o"
+"CMakeFiles/Baekjoon.dir/17140_v2.cpp.o"
 
 # External object files for target Baekjoon
 Baekjoon_EXTERNAL_OBJECTS =
 
-Baekjoon: CMakeFiles/Baekjoon.dir/main.cpp.o
+Baekjoon: CMakeFiles/Baekjoon.dir/17140_v2.cpp.o
 Baekjoon: CMakeFiles/Baekjoon.dir/build.make
 Baekjoon: CMakeFiles/Baekjoon.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jungjiyeon/CLionProjects/Baekjoon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Baekjoon"
