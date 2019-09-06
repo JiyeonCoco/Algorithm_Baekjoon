@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/jungjiyeon/CLionProjects/Baekjoon/17140_v2.cpp
+/Users/jungjiyeon/CLionProjects/Baekjoon/10799.cpp
 iostream
 -
-vector
--
-algorithm
+stack
 -
 
